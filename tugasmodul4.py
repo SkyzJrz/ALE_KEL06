@@ -17,7 +17,7 @@ class Contact:
         return self.phoneNumber
 
 def displayMenu():
-    print("======Daftar Kontak ========")
+    print("======Daftar Kontak========")
     print("1. Tambah Kontak")
     print("2. Lihat Kontak")
     print("3. Perbarui Nomor Telepon")
