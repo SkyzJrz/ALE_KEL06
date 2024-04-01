@@ -33,7 +33,7 @@ def displayContacts(contacts):
     if not contacts:
         print("Tidak ada kontak yang tersedia.")
     else:
-        print("======== Daftar Kontak ========")
+        print("======= Daftar Kontak ========")
         for contact in contacts:
             contact.displayContact()
 
